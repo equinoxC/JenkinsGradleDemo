@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ecnu.edu.sei.st.JenkinsGradleDemoClassTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2018-12-30T07:01:34" hostname="chenjialeideMacBook-Air.local" time="0.004">
+  <properties/>
+  <testcase name="op1_isnot_null_and_op2_is_null" classname="ecnu.edu.sei.st.JenkinsGradleDemoClassTest" time="0.002"/>
+  <testcase name="op1_is_null_and_op2_is_null" classname="ecnu.edu.sei.st.JenkinsGradleDemoClassTest" time="0.0"/>
+  <testcase name="op1_isnot_null_and_op2_isnot_null" classname="ecnu.edu.sei.st.JenkinsGradleDemoClassTest" time="0.0"/>
+  <testcase name="op1_is_null_and_op2_isnot_null" classname="ecnu.edu.sei.st.JenkinsGradleDemoClassTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
